@@ -31,4 +31,3 @@ Mini Spring Boot REST API project for managing books in-memory.
 ## Developed by
 Abinaya Y
 
-- 
